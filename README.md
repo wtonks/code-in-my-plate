@@ -1,3 +1,7 @@
+HTML01 and CSS01 above are my first drafts for my recipe.
+HTML02 and CSS02 is for the complete look of the recipe.
+See below for an example of my first draft.
+
 # Recipe for Mixed Bean Chilli
 
 ![image](http://i.imgur.com/dG60pTk.png)
