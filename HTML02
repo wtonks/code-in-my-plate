@@ -1,0 +1,102 @@
+HTML for complete recipe code.
+
+<!DOCTYPE html><html><head><meta charset="utf-8">
+<title>Recipe</title>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" href="normalize.css" >
+<link rel="stylesheet" href="style.css" >
+
+<style></style></head>
+
+
+
+<body id="Photo of Mixed Bean Chilli, fully cooked.">
+  <h1><a id="Recipe_for_Mixed_Bean_Chilli_0"></a>Recipe for Mixed Bean Chilli</h1>
+  <img src="http://i.imgur.com/dG60pTk.png" alt="image">
+  <p><strong>This is a recipe for a simple, delicious mixed bean chilli, suitable for vegeterians &amp; vegans. Substitute the vegan mince in this recipe to your preference.</strong><br><br>
+  <center>
+    <i class="fa fa-clock-o"></i> 10-15 minutes.</p></center>
+ 
+ <article class="recipe">
+  <header>...</header>
+  <section class="Ingredients">
+   <h2>Ingredients</h2>
+   <ul>
+     <li><input type="checkbox"> 40g red kidney beans</li>
+     <li><input type="checkbox"> 40g haricot beans</li>
+     <li><input type="checkbox"> 40g pinto beans</li>
+     <li><input type="checkbox"> 40g borlotti beans</li>
+     <li><input type="checkbox"> 40g<!DOCTYPE html><html><head><meta charset="utf-8">
+<title>Recipe</title>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" href="normalize.css" >
+<link rel="stylesheet" href="style.css" >
+
+<style></style></head>
+
+
+
+<body id="Photo of Mixed Bean Chilli, fully cooked.">
+  <h1><a id="Recipe_for_Mixed_Bean_Chilli_0"></a>Recipe for Mixed Bean Chilli</h1>
+  <img src="http://i.imgur.com/dG60pTk.png" alt="image">
+  <p><strong>This is a recipe for a simple, delicious mixed bean chilli, suitable for vegeterians &amp; vegans. Substitute the vegan mince in this recipe to your preference.</strong><br><br>
+  <center>
+    <i class="fa fa-clock-o"></i> 10-15 minutes.</p></center>
+ 
+ <article class="recipe">
+  <header>...</header>
+  <section class="Ingredients">
+   <h2>Ingredients</h2>
+   <ul>
+     <li><input type="checkbox"> 40g red kidney beans</li>
+     <li><input type="checkbox"> 40g haricot beans</li>
+     <li><input type="checkbox"> 40g pinto beans</li>
+     <li><input type="checkbox"> 40g borlotti beans</li>
+     <li><input type="checkbox"> 40g cannellini beans</li>
+     <li><input type="checkbox"> 200g chopped tomatoes</li>
+     <li><input type="checkbox"> 100g sweetcorn</li>
+     <li><input type="checkbox"> 2 tbsp chilli powder <em>(add less/more to your preference)</em></li>
+     <li><input type="checkbox"> 80g Fry's vegan mince <em>(optional)</em></li>
+    </ul>
+   
+    <h2>Method</h2>
+    <ol>
+      <li>
+        <p>Prepare tomatoes by chopping them into small cubes.</p>
+        <img src=http://assets.inhabitots.com/wp-content/uploads/2013/09/chopped-tomatoes.jpg>
+      </li>
+      <li>
+        <p>Bring saucepan to hob and add mince. Leave to cook for 5 minutes.</p>
+        <img src=http://www.virginmedia.com/images/cook-g.jpg>
+      </li>
+      <li>
+        <p>Add in your chopped tomatoes, sweetcorn and beans.</p>
+        <img src=http://pickyeaterblog.com/wp-content/uploads/2010/11/IMG_3441.jpg>
+      </li>
+      <li>
+        <p>Add 2 tbsps chilli powder, or change to your preference.</p>
+        <img src=http://ichef.bbci.co.uk/food/ic/food_16x9_608/foods/c/chilli_powder_16x9.jpg>
+      </li>
+      <li>
+      <p>Leave to cook for a further 5 minutes, while stirring regularly.</p>
+        <img src=http://www.seriouseats.com/images/20120126-vegan-chili-1.jpg>
+      </li>
+      <li>
+        <p>Serve alone, or with rice and pita bread.</p>
+        <img src=http://www.tesco.ie/operation-transformation/img/vegetarian-chilli-large.jpg>
+      </li>
+    </ol>
+   
+   </section>
+  </article>
+
+</body>
+</html>
