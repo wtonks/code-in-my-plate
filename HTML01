@@ -1,0 +1,50 @@
+Recipe 01 HTML
+
+<!DOCTYPE html><html><head><meta charset="utf-8">
+<title>Untitled Document.md</title>
+
+<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+
+<link href='style.css' rel='stylesheet' type='text/css'>
+
+<style></style></head>
+
+
+
+
+
+
+
+<body id="Photo of Mixed Bean Chilli, fully cooked.">
+  <h1><a id="Recipe_for_Mixed_Bean_Chilli_0"></a>Recipe for Mixed Bean Chilli</h1>
+  <img src="http://i.imgur.com/dG60pTk.png" alt="image">
+  <p><strong>This is a recipe for a simple, delicious mixed bean chilli, suitable for vegeterians &amp; vegans. Substitute the vegan mince in this recipe to your preference.</strong>
+    
+    <i class="fa fa-clock-o"></i>10-15 minutes.</p>
+  
+  <h3><a id="Ingredients_6"></a>Ingredients</h3>
+  <ul>
+    <li>40g red kidney beans</li>
+    <li>40g haricot beans</li>
+    <li>40g pinto beans</li>
+    <li>40g borlotti beans</li>
+    <li>40g cannellini beans</li>
+    <li>200g chopped tomatoes</li>
+    <li>100g sweetcorn</li>
+    <li>2 tbsps chilli powder <em>(add less/more to your preference)</em></li>
+    <li>80g Fry’s vegan mince <em>(optional)</em></li>
+  </ul>
+  <h3><a id="How_to_make_it_19"></a>How to make it</h3>
+  <ol>
+    <li>Prepare tomatoes by chopping them into small cubes.</li>
+    <li>Bring saucepan to hob and add mince. Leave to cook for 5 minutes.</li>
+    <li>Add in your chopped tomatoes, sweetcorn and beans.</li>
+    <li>Add 2 tbsps chilli powder, or change to your preference.</li>
+    <li>Leave to cook for a further 5 minutes, while stirring regularly.</li>
+    <li>Serve alone, or with rice and pita bread.</li>
+  </ol>
+
+  </body></html>
+
+</body>
+</html>
